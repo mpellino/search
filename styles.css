@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    background: #eee;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    margin-top: auto;
+    background: antiquewhite;
+}
+.ml-auto {
+    margin-left: auto;
+}
+.link {
+    padding: 10px;
+}
+
+#search_form {
+    display: flex;
+    background: aliceblue;
+    justify-content: center;
+    align-items: center;
+}

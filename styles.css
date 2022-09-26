@@ -33,12 +33,18 @@ li {
 #google_search_button_container {
     display: flex;
     align-items: center;
+    background-color: darkred;
+}
+
+#google_image_search_button_container {
+    display: flex;
+    justify-content: center;
+
 }
 
 .search_button {
     padding: 3px;
     font-family: arial,sans-serif;
     font-size: 14px;
-    text-align: center;
     text-align: center;
 }

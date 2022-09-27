@@ -5,6 +5,16 @@
     justify-content: end;
 }
 
+.google_advance_header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#google_advance_links > a {
+    padding: 2px;
+}
+
 li {
     list-style: none;
 }

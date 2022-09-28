@@ -67,7 +67,11 @@ li {
     justify-content: end;
 }
 
+#advance_search_button{
+    background-color: dodgerblue;
+    color:white
 
+}
 .ml-auto {
     margin-left: auto;
 }
